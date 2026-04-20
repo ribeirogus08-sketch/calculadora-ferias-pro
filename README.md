@@ -12,5 +12,7 @@ Aplicação web de Departamento Pessoal focada em UI/UX e visualização de dado
 * CSS3 Avançado
 * JavaScript (ES6+)
 
-# 🚀 Execução
-O projeto é 100% Client-side. Para testar, basta clonar o repositório e executar o arquivo `index.html` em qualquer navegador.
+[👉 CLIQUE AQUI PARA ACESSAR A CALCULADORA ONLINE](https://ribeirogus08-sketch.github.io/calculadora-ferias-pro/)**
+
+
+
