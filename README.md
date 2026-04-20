@@ -12,7 +12,7 @@ Aplicação web de Departamento Pessoal focada em UI/UX e visualização de dado
 * CSS3 Avançado
 * JavaScript (ES6+)
 
-[👉 CLIQUE AQUI PARA ACESSAR A CALCULADORA ONLINE](https://ribeirogus08-sketch.github.io/calculadora-ferias-pro/)**
+[👉 CLIQUE AQUI PARA ACESSAR A CALCULADORA ONLINE](https://ribeirogus08-sketch.github.io/calculadora-ferias-pro/)
 
 
 
